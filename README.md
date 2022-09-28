@@ -21,19 +21,3 @@
    ![Snake animation](https://github.com/nickgabs/nickgabs/blob/output/github-contribution-grid-snake.svg)
    
  </div>
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
