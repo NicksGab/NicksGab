@@ -15,7 +15,7 @@
   
  <div>
    <a href="https://t.me/NickGabs" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
-   <a href="https://cdn.discordapp.com/attachments/1015534530708394066/1024807105250742444/unknown.png" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
+   <a href="#" target="_blank" tittle="Meu id no Discord é: Nick name#1440" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
  <a href="https://www.linkedin.com/in/gabriel-soares-3a6593251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    
    ![Snake animation](https://github.com/nicksgab/nicksgab/blob/output/github-contribution-grid-snake.svg)
