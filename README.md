@@ -1,4 +1,4 @@
-## Olá, meu nome é Gabriel Cavalcante e trabalho atualmente como RPA Developer! 
+## Olá, meu nome é Gabriel Cavalcante e sou um desenvolvedor RPA! 
 
 <div align="center">
   <a href="https://github.com/nicksgab">
