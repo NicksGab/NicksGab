@@ -1,4 +1,4 @@
-## Olá, meu nome é Gabriel Cavalcante e sou um desenvolvedor RPA! 
+## Oi! Me chamo Gabriel Cavalcante um automation developer.
 
 <div align="center">
   <a href="https://github.com/nicksgab">
